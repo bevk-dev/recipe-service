@@ -12,7 +12,7 @@
 	<artifactId>recipe-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>recipe-service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Recipe service shopsync</description>
 	<url/>
 	<licenses>
 		<license/>
