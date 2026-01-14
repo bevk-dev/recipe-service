@@ -1,0 +1,1 @@
+Recipe Service je mikroservis aplikacije ShopSync, ki omogoča pametno upravljanje receptov. Glavna inovacija servisa je uporaba umetne inteligence za avtomatsko ekstrakcijo sestavin iz poljubnih spletnih strani.
